@@ -1,0 +1,16 @@
+{
+  "name": "ticket-booking-system",
+  "version": "1.0.0",
+  "description": "Concurrent ticket booking system with seat locking mechanism (Express.js, in-memory locks).",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "uuid": "^9.0.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
